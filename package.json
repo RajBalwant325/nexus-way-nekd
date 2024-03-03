@@ -5,7 +5,7 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "https://github.com/EszterMousalli650",
+  "homepage": "https://github.com/RajBalwant325/nexus-way-nekd",
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
@@ -24,7 +24,7 @@
     "react-router-dom": "^6.3.0"
   },
   "repository": {
-    "url": "https://github.com/EszterMousalli650/smart-shift-aly"
+    "url": "https://github.com/RajBalwant325/nexus-way-nekd"
   },
   "scripts": {
     "build": "tsup"
@@ -34,7 +34,7 @@
     "way",
     "project"
   ],
-  "author": "EszterMousalli650",
+  "author": "RajBalwant325",
   "license": "MIT",
   "devDependencies": {
     "tsup": "^8.0.2",
